@@ -67,4 +67,4 @@ What I used to build my code on:
 
 ## Credits
 
-[Christopher Ta](https://github.com/Krunk-Juice)
+[Christopher Ta](https://github.com/ch-ta)
